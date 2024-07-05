@@ -1,0 +1,66 @@
+Los resultados mostrados aquí son óptimos.
+Es decir, el resultado de la cantidad de tropas es el que minimiza lo pedido.
+Aunque si se llega a otra secuencia de Maestros que lleven al mismo valor óptimo, también será correcto (cuestiones de implementacion).
+
+Poderes-Pequeños.txt
+Grupo 1: Katara, Sura.
+Grupo 2: Hasook, Siku.
+Grupo 3: Misu, Eska.
+Grupo 4: Desna I, Unalaq.
+Grupo 5: Siku I, Desna.
+Coeficiente: 12085.
+
+Poderes-Grandes.txt
+Grupo 1: Unalaq, Katara.
+Grupo 2: Sura, Desna.
+Grupo 3: Siku, Misu.
+Grupo 4: Eska, Siku I.
+Grupo 5: Hasook, Desna I.
+Coeficiente: 4094005.
+
+MasGrandesQuePequeños.txt
+Grupo 1: Misu, Siku I.
+Grupo 2: Katara, Desna I.
+Grupo 3: Unalaq, Hasook, Desna.
+Grupo 4: Sura, Siku.
+Grupo 5: Eska.
+Coeficiente: 1979891.
+
+MasPequeñosQueGrandes.txt
+Grupo 1: Hasook.
+Grupo 2: Siku.
+Grupo 3: Desna.
+Grupo 4: Siku I, Katara, Sura.
+Grupo 5: Desna I, Misu, Unalaq, Eska.
+Coeficiente: 782329.
+
+Los resultados mostrados aquí son aproximaciones obtenidas con el algoritmo correspondiente.
+No se puede hallar el óptimo porque estos volumenes de datos son inmanejables con la complejidad computacional que se tiene de resolución.
+
+60_5.txt
+Grupo 1: 'Katara', 'Katara', 'Siku I', 'Siku I', 'Desna I', 'Desna I', 'Unalaq', 'Sura', 'Sura', 'Eska', 'Hasook', 'Hasook', 'Hasook'.
+Grupo 2: 'Katara', 'Misu', 'Misu', 'Siku', 'Siku', 'Desna I', 'Unalaq', 'Unalaq', 'Desna', 'Eska', 'Eska'.
+Grupo 3: 'Katara', 'Misu', 'Misu', 'Siku', 'Siku', 'Desna I', 'Unalaq', 'Sura', 'Sura', 'Desna', 'Eska', 'Hasook'.
+Grupo 4: 'Katara', 'Misu', 'Siku I', 'Siku I', 'Siku', 'Desna I', 'Unalaq', 'Sura', 'Desna', 'Desna', 'Eska', 'Hasook'.
+Grupo 5: 'Katara', 'Misu', 'Siku I', 'Siku I', 'Siku', 'Desna I', 'Unalaq', 'Sura', 'Desna', 'Desna', 'Eska', 'Hasook'.
+Coeficiente: 12736526.
+
+90_6.txt
+Grupo 1: 'Senna II', 'Amon', 'Hasook I', 'Pakku', 'La', 'Huu', 'Senna', 'Ming-Hua', 'Tonraq', 'Rafa', 'Wei', 'Huu I', 'Hasook', 'Senna I', 'Sura'.
+Grupo 2: 'Senna II', 'Amon', 'Hasook I', 'Pakku', 'La', 'Huu', 'Senna', 'Ming-Hua', 'Tonraq', 'Rafa', 'Wei', 'Huu I', 'Hasook', 'Senna I', 'Sura'.
+Grupo 3: 'Senna II', 'Amon', 'Hasook I', 'Pakku', 'La', 'Huu', 'Senna', 'Ming-Hua', 'Tonraq', 'Rafa', 'Wei', 'Huu I', 'Hasook', 'Senna I', 'Sura'.
+Grupo 4: 'Senna II', 'Amon', 'Hasook I', 'Pakku', 'La', 'Huu', 'Senna', 'Ming-Hua', 'Tonraq', 'Rafa', 'Wei', 'Huu I', 'Hasook', 'Senna I', 'Sura'.
+Grupo 5: 'Senna II', 'Amon', 'Hasook I', 'Pakku', 'La', 'Huu', 'Senna', 'Ming-Hua', 'Tonraq', 'Rafa', 'Wei', 'Huu I', 'Hasook', 'Senna I', 'Sura'.
+Grupo 6: 'Senna II', 'Amon', 'Hasook I', 'Pakku', 'La', 'Huu', 'Senna', 'Ming-Hua', 'Tonraq', 'Rafa', 'Wei', 'Huu I', 'Hasook', 'Senna I', 'Sura'.
+Coeficiente: 229525350.
+
+120_8.txt
+Grupo 1: 'Wei', 'Kuruk', 'Yakone', 'Tonraq', 'Tho', 'Tho', 'Amon', 'Amon', 'Pakku', 'Amon I', 'Sura', 'Ming-Hua', 'Ming-Hua', 'Hama I', 'Hama I'.
+Grupo 2: 'Wei', 'Kuruk', 'Yakone', 'Tonraq', 'Tho', 'Tho', 'Amon', 'Amon', 'Pakku', 'Amon I', 'Sura', 'Sura I', 'Sura I', 'Hama I', 'Hama I'.
+Grupo 3: 'Wei', 'Unalaq', 'Yakone', 'Tonraq', 'Misu', 'Hama', 'Rafa', 'Amon', 'Pakku', 'Amon I', 'Sura', 'Ming-Hua', 'Katara', 'Katara', 'La'.
+Grupo 4: 'Wei', 'Unalaq', 'Yakone', 'Tonraq', 'Misu', 'Hama', 'Rafa', 'Amon', 'Pakku', 'Amon I', 'Sura', 'Sura I', 'Katara', 'Katara', 'La'.
+Grupo 5: 'Wei', 'Unalaq', 'Yakone', 'Tonraq', 'Misu', 'Hama', 'Rafa', 'Ming-Hua I', 'Ming-Hua I', 'Sura', 'Sangok', 'Sangok', 'Ming-Hua', 'Hama I', 'La', 'La'.
+Grupo 6: 'Wei', 'Unalaq', 'Yakone', 'Tonraq', 'Misu', 'Hama', 'Rafa', 'Ming-Hua I', 'Ming-Hua I', 'Sura', 'Sangok', 'Sangok', 'Sura I', 'Hama I', 'La', 'La'.
+Grupo 7: 'Kuruk', 'Kuruk', 'Unalaq', 'Misu', 'Tho', 'Hama', 'Rafa', 'Ming-Hua I', 'Pakku', 'Amon I', 'Sangok', 'Ming-Hua', 'Ming-Hua', 'Katara'.
+Grupo 8: 'Kuruk', 'Kuruk', 'Unalaq', 'Misu', 'Tho', 'Hama', 'Rafa', 'Ming-Hua I', 'Pakku', 'Amon I', 'Sangok', 'Sura I', 'Sura I', 'Katara'.
+Coeficiente: 410927484.
