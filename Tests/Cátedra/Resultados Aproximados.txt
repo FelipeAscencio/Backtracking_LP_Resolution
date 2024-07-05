@@ -1,0 +1,175 @@
+Los resultados mostrados aquí son aproximaciones obtenidas con el algoritmo correspondiente.
+
+5_2.txt
+Grupo 1: 'Yakone', 'Yue', 'Pakku'.
+Grupo 2: 'Wei', 'Pakku I'.
+Coeficiente: 1894340.
+
+6_3.txt
+Grupo 1: 'Wei', 'Hasook'.
+Grupo 2: 'Senna', 'Hama I'.
+Grupo 3: 'Hama', 'Wei I'.
+Coeficiente: 1640690.
+
+6_4.txt
+Grupo 1: 'Huu'.
+Grupo 2: 'Eska'.
+Grupo 3: 'Sura'.
+Grupo 4: 'Hama', 'Sangok', 'Ming-Hua'.
+Coeficiente: 807418.
+
+8_3.txt
+Grupo 1: 'Katara', 'Rafa'.
+Grupo 2: 'Hama', 'Unalaq', 'Amon', 'Tonraq'.
+Grupo 3: 'Misu', 'Hasook'.
+Coeficiente: 4298131.
+
+10_3.txt
+Grupo 1: 'Sangok', 'Yue', 'Pakku'.
+Grupo 2: 'Eska', 'Wei', 'Amon'.
+Grupo 3: 'Sura', 'Siku', 'La', 'Tonraq'.
+Coeficiente: 385249.
+
+10_5.txt
+Grupo 1: 'Katara', 'Hasook'.
+Grupo 2: 'Misu', 'Eska'.
+Grupo 3: 'Siku I', 'Desna'.
+Grupo 4: 'Siku', 'Sura'.
+Grupo 5: 'Desna I', 'Unalaq'.
+Coeficiente: 355882.
+
+10_10.txt
+Grupo 1: 'Unalaq'.
+Grupo 2: 'Sura'.
+Grupo 3: 'Senna'.
+Grupo 4: 'Ming-Hua'.
+Grupo 5: 'Rafa'.
+Grupo 6: 'Tho'.
+Grupo 7: 'Desna'.
+Grupo 8: 'Katara'.
+Grupo 9: 'Kya'.
+Grupo 10: 'Amon'.
+Coeficiente: 172295.
+
+11_5.txt
+Grupo 1: 'Yakone'.
+Grupo 2: 'Siku I'.
+Grupo 3: 'Tonraq', 'Siku'.
+Grupo 4: 'Misu', 'Hasook', 'Siku II', 'Hama'.
+Grupo 5: 'Misu I', 'Kya', 'Pakku'.
+Coeficiente: 2906564.
+
+14_3.txt
+Grupo 1: 'Huu', 'Kuruk', 'Tonraq', 'Eska I', 'Eska'.
+Grupo 2: 'Sangok', 'Misu', 'Katara', 'Wei'.
+Grupo 3: 'Sangok I', 'Rafa', 'Tonraq I', 'Eska II', 'Hama'.
+Coeficiente: 15664276.
+
+14_4.txt
+Grupo 1: 'Pakku I', 'Huu I', 'Tho'.
+Grupo 2: 'Tonraq', 'Misu', 'Hasook'.
+Grupo 3: 'La', 'Huu', 'Huu II', 'Yue'.
+Grupo 4: 'Kya I', 'Ming-Hua', 'Pakku', 'Kya'.
+Coeficiente: 15292085.
+
+14_6.txt
+Grupo 1: 'Ming-Hua', 'Wei'.
+Grupo 2: 'Siku', 'Desna'.
+Grupo 3: 'Unalaq', 'Kuruk'.
+Grupo 4: 'Amon', 'Misu', 'La'.
+Grupo 5: 'Misu I', 'Senna', 'Kya'.
+Grupo 6: 'Ming-Hua I', 'Kuruk I'.
+Coeficiente: 10700172.
+
+15_4.txt
+Grupo 1: 'Katara', 'Wei', 'Desna'.
+Grupo 2: 'Kuruk', 'Tonraq', 'Hama'.
+Grupo 3: 'Hasook', 'Senna', 'Pakku'.
+Grupo 4: 'Yakone', 'Tonraq I', 'Yue', 'Kuruk I', 'Tho', 'Kya'.
+Coeficiente: 4317075.
+
+15_6.txt
+Grupo 1: 'Senna II', 'Huu I'.
+Grupo 2: 'Amon', 'Wei'.
+Grupo 3: 'Hasook I', 'Rafa'.
+Grupo 4: 'Pakku', 'Tonraq', 'Senna I'.
+Grupo 5: 'La', 'Ming-Hua', 'Sura'.
+Grupo 6: 'Huu', 'Senna', 'Hasook'.
+Coeficiente: 6377501.
+
+17_5.txt
+Grupo 1: 'Sangok I', 'Ming-Hua', 'Hama', 'Rafa'.
+Grupo 2: 'Yakone I', 'Huu', 'Unalaq'.
+Grupo 3: 'Misu I', 'Yakone', 'Senna'.
+Grupo 4: 'Sangok', 'Amon I', 'Tho'.
+Grupo 5: 'Senna I', 'Wei', 'Amon', 'Misu'.
+Coeficiente: 15975947.
+
+17_7.txt
+Grupo 1: 'Pakku II', 'Hasook I', 'Pakku'.
+Grupo 2: 'Rafa', 'Eska', 'Hasook'.
+Grupo 3: 'Hama', 'Wei I', 'Desna'.
+Grupo 4: 'Wei', 'La'.
+Grupo 5: 'Unalaq', 'Tonraq'.
+Grupo 6: 'Pakku I', 'Yue'.
+Grupo 7: 'Siku', 'Sangok'.
+Coeficiente: 11513230.
+
+17_10.txt
+Grupo 1: 'Yue'.
+Grupo 2: 'Rafa'.
+Grupo 3: 'Pakku I'.
+Grupo 4: 'Siku'.
+Grupo 5: 'Wei I', 'Eska'.
+Grupo 6: 'Misu', 'Sura'.
+Grupo 7: 'Sangok', 'Yue I', 'Pakku'.
+Grupo 8: 'Wei', 'Siku I'.
+Grupo 9: 'Amon', 'Tho'.
+Grupo 10: 'Hama', 'Desna'.
+Coeficiente: 5430512.
+
+18_6.txt
+Grupo 1: 'Misu I', 'Kuruk I'.
+Grupo 2: 'Yue II', 'Kya', 'Huu'.
+Grupo 3: 'Yue I', 'Kuruk', 'Sangok'.
+Grupo 4: 'Tho', 'Hama', 'Yue', 'Misu'.
+Grupo 5: 'Hama I', 'Amon', 'Pakku'.
+Grupo 6: 'Yakone', 'Senna', 'Kya I'.
+Coeficiente: 10325588.
+
+18_8.txt
+Grupo 1: 'Amon II', 'Wei'.
+Grupo 2: 'Sura', 'Desna'.
+Grupo 3: 'Kya I', 'Senna', 'Ming-Hua'.
+Grupo 4: 'Siku', 'Hama', 'Katara'.
+Grupo 5: 'Yakone', 'Amon I'.
+Grupo 6: 'Rafa I', 'Tho I'.
+Grupo 7: 'Rafa', 'Amon'.
+Grupo 8: 'Tho', 'Kya'.
+Coeficiente: 12000279.
+
+20_4.txt
+Grupo 1: 'Sura I', 'Tonraq', 'Tho I', 'Sura', 'Hasook'.
+Grupo 2: 'Siku I', 'Rafa', 'Siku', 'Kya', 'Wei I'.
+Grupo 3: 'Sangok', 'Ming-Hua', 'Yue', 'Hama', 'Sangok II'.
+Grupo 4: 'Tho', 'Wei', 'Tonraq I', 'Katara', 'Sangok I'.
+Coeficiente: 21083935.
+
+20_5.txt
+Grupo 1: 'Huu', 'Wei', 'Yue I', 'Yue'.
+Grupo 2: 'Desna', 'Hasook', 'Huu II', 'Huu III'.
+Grupo 3: 'Kuruk', 'Misu', 'Tonraq I', 'Misu II'.
+Grupo 4: 'Yakone', 'Hasook I', 'Tonraq', 'Misu I'.
+Grupo 5: 'Huu I', 'Siku', 'Sura', 'Ming-Hua'.
+Coeficiente: 16838539.
+
+20_8.txt
+Grupo 1: 'Wei', 'Ming-Hua', 'Katara'.
+Grupo 2: 'Kuruk', 'Sangok', 'Sura I'.
+Grupo 3: 'Unalaq', 'Sura', 'La'.
+Grupo 4: 'Yakone', 'Amon I', 'Hama I'.
+Grupo 5: 'Tonraq', 'Pakku'.
+Grupo 6: 'Misu', 'Ming-Hua I'.
+Grupo 7: 'Tho', 'Amon'.
+Grupo 8: 'Hama', 'Rafa'.
+Coeficiente: 11423826.
