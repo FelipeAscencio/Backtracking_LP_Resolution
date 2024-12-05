@@ -1,7 +1,5 @@
 # NP-Complete Problems for the defense of the Water Tribe.
 
----
-
 ## Introduction
 
 In this project we seek to solve a problem that is presented to us with 3 different techniques, these are, "Backtracking", "Linear Programming" and "Approximation".
